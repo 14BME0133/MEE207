@@ -28,5 +28,5 @@ Laboratory | Computer Aided Machine Drawing | 2 0 0 2 | Design
   </tr>
   <tr>
   <td>Timings</td>
-  <td><li>Monday: 1000-1200<br>Thursday: 0800-1000</td>
+  <td>Monday: 1000-1200<br>Thursday: 0800-1000</td>
 </table>
